@@ -7,12 +7,12 @@
 		- Задание1_список_багов.docx
 		- Задание1_список_багов.pdf
 - Задание 2.
-- Директория задания 1
+- - Директория задания 1:
+	- Задание 1:
 		- auto_test
 		- README(.md//pdf/.docx)
-  		- TUTOR_AUTOTEST  
-    		- TESTCASES.xlsx 
-		- TESTCASES1(.md//pdf/.docx)
-		- TESTCASES2(.md//pdf/.docx)
-
+		- TUTOR_AUTOTEST  
+		- TESTCASES.xlsx
+    		- TESTCASES1(.md//pdf/.docx)
+      - - TESTCASES2(.md//pdf/.docx)
   Тест кейсы разделены на 2 таблицы
